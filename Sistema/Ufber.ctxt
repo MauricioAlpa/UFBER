@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ufber
+comment1.params=m
+comment1.target=void\ adicionarMotorista(Motorista)
+comment2.params=p
+comment2.target=void\ adicionarPassageiro(Passageiro)
+comment3.params=passageiro\ tipoDeCorrida\ embarque\ desembarque
+comment3.target=void\ pedirCorrida(Passageiro,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4
